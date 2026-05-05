@@ -1,0 +1,10 @@
+{
+  "id": "status-time-hide-sync-plugin",
+  "name": "Status Time + Hide Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Displays a 12-hour clock and hides the sync icon in the status bar.",
+  "author": "Mushmello Crafts",
+  "authorUrl": "https://github.com/mushmello-crafts/obsidian-status-time/",
+  "isDesktopOnly": false
+}
